@@ -1,5 +1,5 @@
 # Master-Thesis-Alina-Zaidan
-This repository contains code used for the Master Thesis of Alina Zaidan. It is a part of the Osnabrück Plaza Project, which is developed by Aitana Grasso-Cladera, MSc. and Debora Nolte, MSc. (Neurobiopsychology Laboratory at the Institute of Cognitive Sciences; Osnabrück University).
+This repository contains code used for the Master Thesis of Alina Zaidan. 
 
 1. "Yolo.ipynb" and "categoried_fixations.ipynb" contain the code used for detection and mapping of body AOIs and combining with face fixation detected by Pupil Labs (RetinaFace).
 
